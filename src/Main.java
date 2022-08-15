@@ -1,5 +1,5 @@
 public class Main {
-// I wrote this project in IntelliJ IDEA and exported to github
+
     public static void main(String[] args) {
         GameExceptions gameExceptions = new GameExceptions();
         Methods methods = new Methods();
